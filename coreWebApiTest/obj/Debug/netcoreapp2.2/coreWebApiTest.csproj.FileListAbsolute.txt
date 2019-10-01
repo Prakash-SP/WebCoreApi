@@ -1,0 +1,14 @@
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.csprojAssemblyReference.cache
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.csproj.CoreCompileInputs.cache
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.RazorAssemblyInfo.cache
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.RazorAssemblyInfo.cs
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.AssemblyInfoInputs.cache
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.AssemblyInfo.cs
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\bin\Debug\netcoreapp2.2\coreWebApiTest.deps.json
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\bin\Debug\netcoreapp2.2\coreWebApiTest.runtimeconfig.json
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\bin\Debug\netcoreapp2.2\coreWebApiTest.runtimeconfig.dev.json
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\bin\Debug\netcoreapp2.2\coreWebApiTest.dll
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\bin\Debug\netcoreapp2.2\coreWebApiTest.pdb
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.RazorTargetAssemblyInfo.cache
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.dll
+D:\ESUsers\Shakti\DemoAPI\WEBAPI\coreWebApiTest\coreWebApiTest\obj\Debug\netcoreapp2.2\coreWebApiTest.pdb
